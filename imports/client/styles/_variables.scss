@@ -1,0 +1,39 @@
+// Colors
+$brandPrimary: #5B4681;
+$lightGray: #DDDDDD;
+$darkGray: #777777;
+
+// Spacing
+$space: 1.4rem;
+
+// Font sizes
+$baseFontSize: 1.6rem;
+$largeFontSize: 1.8rem;
+
+// Boxed view
+$boxedViewOverlayBg: $lightGray;
+$boxedViewBg: white;
+
+// Form inputs
+$inputBorder: $lightGray;
+$inputSpacing: 1rem;
+
+// Buttons
+$buttonBg: $brandPrimary;
+$buttonColor: white;
+$buttonPillColor: $brandPrimary;
+$buttongSecondaryBg: #F9F9F9;
+$buttonSecondaryColor: $darkGray;
+$buttonSecondaryBorderColor: $lightGray;
+
+// Header
+$headerBg: $brandPrimary;
+$headerColor: white;
+
+// Layout
+$maxWidth: 50rem;
+
+// Item
+$itemBg: $lightGray;
+$itemBorder: darken($itemBg, 8%);
+$itemTextColor: $darkGray;
