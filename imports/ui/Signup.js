@@ -46,7 +46,7 @@ export default class Signup extends React.Component {
           </form>
           <br />
 
-          Have an account? Click <Link to="/">here</Link>.
+          <Link to="/">Have an account?</Link>.
         </div>
       </div>
     );
