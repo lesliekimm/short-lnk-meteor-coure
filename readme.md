@@ -1,3 +1,7 @@
-This is a README
+# Short Lnk
 
-Author: Leslie Kim
+This is a link shortener buit on Meteor and React.
+
+## Authors
+
+Leslie Kim
